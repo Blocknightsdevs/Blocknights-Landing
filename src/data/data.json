@@ -1,0 +1,123 @@
+{
+    "Header": {
+
+        "title": "BLOCKNIGHTS",
+        "paragraph": "- Building the future block by block -"
+
+    },
+    "About": {
+        "paragraph": "We are a startup from USA focusing on blockchain development",
+        "Why": [
+            "Strong team experience",
+            "Customer first",
+            "24/7 available"
+        ],
+        "Why2": [
+            "Best market prices",
+            "Custom developments",
+            "Detail oriented"
+        ]
+    },
+    "Services": [{
+            "icon": "fas fa-coins",
+            "name": "Total Supply",
+            "text": "Total suppley description "
+        },
+        {
+            "icon": "fas fa-hands-helping",
+            "name": "Future 1",
+            "text": "Future 1 description"
+        },
+        {
+            "icon": "fas fa-chart-pie",
+            "name": "Future 2",
+            "text": "Future 2 description"
+        },
+        {
+            "icon": "fas fa-chart-pie",
+            "name": "Future 3",
+            "text": "Future 3 description"
+        },
+        {
+            "icon": "fas fa-chart-pie",
+            "name": "Future 4",
+            "text": "Future 4 description"
+        },
+        {
+            "icon": "fas fa-users",
+            "name": "Future 5",
+            "text": "Future 5 description"
+        }
+
+
+    ],
+    "Features": [{
+            "icon": "fas fa-cloud",
+            "title": "Dapps",
+            "text": "Dapps development using solidity and react"
+        },
+        {
+            "icon": "fas fa-robot",
+            "title": "Trading Bots",
+            "text": "Custom trading bots using phyton and solidity"
+        },
+        {
+            "icon": "fas fa-users",
+            "title": "Consulting",
+            "text": "Consulting of blockchain developments"
+        }
+    ],
+    "Contact": {
+        "facebook": "fb.com",
+        "twitter": "https://twitter.com",
+        "youtube": "youtube.com",
+        "telegram": "http://t.me"
+    },
+
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+        "img": "img/team/mehdi.jpg",
+        "name": "Mehadi",
+        "job": "Sr  Blockchain Developer"
+    },
+    {
+        "img": "img/team/rodrigo.jpg",
+        "name": "Rodrigo",
+        "job": "Sr Blockchain Lead"
+    }
+],
+    "Footer": {
+        "email": "blocknightsinfo@gmail.com"
+    }
+
+}
