@@ -24,11 +24,11 @@ const App = () => {
 
   return (
     <div>
-      <Contact data={landingPageData.Contact} />
       <Header data={landingPageData.Header} />
       <Features data={landingPageData.Features} />
       <About data={landingPageData.About} />
       <Team data={landingPageData.Team} />
+      <Contact data={landingPageData.Contact} />
       <Footer data={landingPageData.Footer} />
     </div>
   )
