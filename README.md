@@ -1,6 +1,5 @@
-# Landing Page Title
+# Blocknights Landing Page
 
 
 ## Description
-Landing Page Description
-
+site: blocknights.netlify.app
